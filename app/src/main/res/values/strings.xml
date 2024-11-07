@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">FitLifeTracker</string>
+
+    <!-- Activity Titles -->
+    <string name="search_exercises">Search Exercises</string>
+
+    <!-- Hints and Labels -->
+    <string name="keyword_hint">Keyword</string>
+    <string name="difficulty_label">Difficulty</string>
+    <string name="requires_equipment">Requires Equipment</string>
+
+    <!-- Button Texts -->
+    <string name="search_button">Search</string>
+    <string name="search_exercises_button">Search Exercises</string>
+
+    <!-- Radio Buttons -->
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+
+    <!-- Categories for Spinner -->
+    <string-array name="category_array">
+        <item>Any</item>
+        <item>Strength</item>
+        <item>Cardio</item>
+        <item>Flexibility</item>
+    </string-array>
+
+    <!-- List Item Texts -->
+    <string name="exercise_name">Exercise Name</string>
+    <string name="category_difficulty">Category - Difficulty</string>
+
+    <!-- Content Descriptions -->
+    <string name="app_logo_description">App Logo</string>
+</resources>
